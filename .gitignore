@@ -1,0 +1,20 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Vector databases
+vectorstores/
+
+# Temporary files
+temp/
+uploads/
+
+# VS Code
+.vscode/
